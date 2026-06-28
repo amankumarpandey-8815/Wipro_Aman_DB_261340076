@@ -64,7 +64,7 @@ By completing this course, I have developed the ability to:
 
 ## ⚠️ Disclaimer
 
-This repository has been created strictly for **academic purposes** as part of the Wipro **Database Solutions** training program. All content — including SQL queries, assignments, and mini projects — reflects individual coursework completed during the training period.
+This repository has been created strictly for **academic purposes** as part of the Wipro **Database Solutions** training program. All content including SQL queries, assignments, and mini projects reflects individual course work completed during the training period.
 
 ---
 
