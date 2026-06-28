@@ -12,7 +12,7 @@
 | **Enrollment Number** | 0131AD231009 |
 | **Batch** | 2027 |
 | **Course** | Database Solutions |
-| **Submitted To** | Madhav Sahu Sir |
+| **Submitted To** | Madhav Sahu |
 
 ---
 
